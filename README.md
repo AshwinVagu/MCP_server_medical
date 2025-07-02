@@ -57,7 +57,7 @@ Replace `http://localhost:8000` with the actual URL of your outbound calling API
 ### 4️⃣ Running the Server
 
 ```bash
-node index.js
+node server.js
 ```
 
 The server will start and listen for requests on stdio.
